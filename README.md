@@ -10,9 +10,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Create the dataset containing student CGPA, aptitude score, and placement status.
+
 2.Split the dataset into training and testing data.
+
 3.Train the Logistic Regression model using the training data.
+
 4.Predict the placement status of students and calculate the model accuracy.
+
 ## Program:
 
 ```
